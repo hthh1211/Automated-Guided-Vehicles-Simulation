@@ -1,0 +1,387 @@
+D:\Program_Files\Python\Python36-32\python.exe "E:/Guozi/develop/PackageDistribution/Dispatch Simulation_2018-4-14/main.py"
+loading config file at path: E:\Guozi\develop\PackageDistribution\Dispatch Simulation_2018-4-14\config.ini
+node_count_total =3360
+edges_count_total =6634
+node_count_total_without_except_area =2698
+edges_count_total_without_except_area =5281
+loading config file at path: E:\Guozi\develop\PackageDistribution\Dispatch Simulation_2018-4-14/config.ini
+******************************************
+grid_length=0.9
+column_number=30
+row_number=56
+agv_num=60
+agv_speed=1.2
+******************************************
+intializing agv positions...
+*****************************************
+simulation_progress: 1.88 %
+simulation_real_time =  11.2
+waiting_percentage =  0.0
+simulation_efficiency_per_agv_per_hour =  0.0
+*****************************************
+simulation_progress: 3.12 %
+simulation_real_time =  18.8
+waiting_percentage =  0.01
+simulation_efficiency_per_agv_per_hour =  0.0
+*****************************************
+simulation_progress: 4.25 %
+simulation_real_time =  25.5
+waiting_percentage =  0.01
+simulation_efficiency_per_agv_per_hour =  0.0
+*****************************************
+simulation_progress: 5.12 %
+simulation_real_time =  30.8
+waiting_percentage =  0.01
+simulation_efficiency_per_agv_per_hour =  0.0
+*****************************************
+simulation_progress: 5.88 %
+simulation_real_time =  35.2
+waiting_percentage =  0.03
+simulation_efficiency_per_agv_per_hour =  0.0
+*****************************************
+simulation_progress: 6.62 %
+simulation_real_time =  39.8
+waiting_percentage =  0.03
+simulation_efficiency_per_agv_per_hour =  1.3
+*****************************************
+simulation_progress: 7.38 %
+simulation_real_time =  44.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  1.2
+*****************************************
+simulation_progress: 8.62 %
+simulation_real_time =  51.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  2.0
+*****************************************
+simulation_progress: 9.62 %
+simulation_real_time =  57.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  2.7
+*****************************************
+simulation_progress: 10.75 %
+simulation_real_time =  64.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  3.2
+*****************************************
+simulation_progress: 11.62 %
+simulation_real_time =  69.8
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  5.9
+*****************************************
+simulation_progress: 12.88 %
+simulation_real_time =  77.2
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  6.7
+*****************************************
+simulation_progress: 13.88 %
+simulation_real_time =  83.2
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  9.3
+*****************************************
+simulation_progress: 15.12 %
+simulation_real_time =  90.8
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  11.9
+*****************************************
+simulation_progress: 16.62 %
+simulation_real_time =  99.8
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  12.3
+*****************************************
+simulation_progress: 18.38 %
+simulation_real_time =  110.2
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  13.9
+*****************************************
+simulation_progress: 19.75 %
+simulation_real_time =  118.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  15.5
+*****************************************
+simulation_progress: 21.62 %
+simulation_real_time =  129.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  16.5
+*****************************************
+simulation_progress: 23.12 %
+simulation_real_time =  138.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  16.8
+*****************************************
+simulation_progress: 24.50 %
+simulation_real_time =  147.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  18.3
+*****************************************
+simulation_progress: 26.00 %
+simulation_real_time =  156.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  19.8
+*****************************************
+simulation_progress: 27.12 %
+simulation_real_time =  162.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  20.2
+*****************************************
+simulation_progress: 28.25 %
+simulation_real_time =  169.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  20.0
+*****************************************
+simulation_progress: 29.38 %
+simulation_real_time =  176.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  19.8
+*****************************************
+simulation_progress: 30.00 %
+simulation_real_time =  180.0
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  19.7
+*****************************************
+simulation_progress: 31.62 %
+simulation_real_time =  189.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  19.4
+*****************************************
+simulation_progress: 32.62 %
+simulation_real_time =  195.8
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  19.6
+*****************************************
+simulation_progress: 33.75 %
+simulation_real_time =  202.5
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  19.7
+*****************************************
+simulation_progress: 34.88 %
+simulation_real_time =  209.2
+waiting_percentage =  0.05
+simulation_efficiency_per_agv_per_hour =  19.8
+*****************************************
+simulation_progress: 36.62 %
+simulation_real_time =  219.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  20.4
+*****************************************
+simulation_progress: 38.25 %
+simulation_real_time =  229.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  20.4
+*****************************************
+simulation_progress: 39.88 %
+simulation_real_time =  239.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  20.9
+*****************************************
+simulation_progress: 41.25 %
+simulation_real_time =  247.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.0
+*****************************************
+simulation_progress: 42.75 %
+simulation_real_time =  256.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.2
+*****************************************
+simulation_progress: 44.12 %
+simulation_real_time =  264.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.3
+*****************************************
+simulation_progress: 45.50 %
+simulation_real_time =  273.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.4
+*****************************************
+simulation_progress: 46.75 %
+simulation_real_time =  280.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.4
+*****************************************
+simulation_progress: 48.38 %
+simulation_real_time =  290.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.2
+*****************************************
+simulation_progress: 49.88 %
+simulation_real_time =  299.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.2
+*****************************************
+simulation_progress: 51.25 %
+simulation_real_time =  307.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.5
+*****************************************
+simulation_progress: 52.62 %
+simulation_real_time =  315.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.4
+*****************************************
+simulation_progress: 54.25 %
+simulation_real_time =  325.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.4
+*****************************************
+simulation_progress: 55.75 %
+simulation_real_time =  334.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.8
+*****************************************
+simulation_progress: 57.12 %
+simulation_real_time =  342.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  22.0
+*****************************************
+simulation_progress: 58.38 %
+simulation_real_time =  350.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.7
+*****************************************
+simulation_progress: 59.88 %
+simulation_real_time =  359.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.6
+*****************************************
+simulation_progress: 61.38 %
+simulation_real_time =  368.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.5
+*****************************************
+simulation_progress: 63.12 %
+simulation_real_time =  378.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  21.8
+*****************************************
+simulation_progress: 64.62 %
+simulation_real_time =  387.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  22.0
+*****************************************
+simulation_progress: 66.50 %
+simulation_real_time =  399.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  22.1
+*****************************************
+simulation_progress: 68.25 %
+simulation_real_time =  409.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  22.5
+*****************************************
+simulation_progress: 70.12 %
+simulation_real_time =  420.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  22.6
+*****************************************
+simulation_progress: 72.00 %
+simulation_real_time =  432.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  22.9
+*****************************************
+simulation_progress: 73.62 %
+simulation_real_time =  441.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.2
+*****************************************
+simulation_progress: 74.75 %
+simulation_real_time =  448.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  22.9
+*****************************************
+simulation_progress: 75.88 %
+simulation_real_time =  455.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.2
+*****************************************
+simulation_progress: 77.50 %
+simulation_real_time =  465.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.3
+*****************************************
+simulation_progress: 79.12 %
+simulation_real_time =  474.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.2
+*****************************************
+simulation_progress: 80.00 %
+simulation_real_time =  480.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.3
+*****************************************
+simulation_progress: 81.38 %
+simulation_real_time =  488.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.1
+*****************************************
+simulation_progress: 82.25 %
+simulation_real_time =  493.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.1
+*****************************************
+simulation_progress: 83.62 %
+simulation_real_time =  501.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  22.9
+*****************************************
+simulation_progress: 84.75 %
+simulation_real_time =  508.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.1
+*****************************************
+simulation_progress: 85.62 %
+simulation_real_time =  513.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.3
+*****************************************
+simulation_progress: 86.75 %
+simulation_real_time =  520.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.3
+*****************************************
+simulation_progress: 87.88 %
+simulation_real_time =  527.2
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.3
+*****************************************
+simulation_progress: 89.00 %
+simulation_real_time =  534.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.2
+*****************************************
+simulation_progress: 90.50 %
+simulation_real_time =  543.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.2
+*****************************************
+simulation_progress: 91.75 %
+simulation_real_time =  550.5
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.5
+*****************************************
+simulation_progress: 93.00 %
+simulation_real_time =  558.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.4
+*****************************************
+simulation_progress: 94.62 %
+simulation_real_time =  567.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.2
+*****************************************
+simulation_progress: 96.12 %
+simulation_real_time =  576.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.4
+*****************************************
+simulation_progress: 97.00 %
+simulation_real_time =  582.0
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.4
+*****************************************
+simulation_progress: 98.62 %
+simulation_real_time =  591.8
+waiting_percentage =  0.04
+simulation_efficiency_per_agv_per_hour =  23.4
+
+Process finished with exit code 0
