@@ -1,6 +1,8 @@
 # Automated-Guided-Vehicles-Simulation
 This is the simulation model for the Aumated Guided Vehicles system
-
+You need run it by python and some modules like numpy may be missed in your python environment. You need to install them.
+Then you should run main.py and the dynamic simulation results will appear on display board.
+For the results:
 The green rectangle point represent pods.
 The blue rectangle point represent picking station.
 The pink rectangle point represent replenishing station.
